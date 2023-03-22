@@ -1,0 +1,7 @@
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\bin\Release\Sudoko.exe
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\obj\Release\Sudoko.csproj.AssemblyReference.cache
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\obj\Release\Sudoku.DataGridSpinnerColumn.resources
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\obj\Release\Sudoku.SudokuMainForm.resources
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\obj\Release\Sudoko.csproj.GenerateResource.cache
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\obj\Release\Sudoko.csproj.CoreCompileInputs.cache
+D:\любимая шарга\Технологии программирования\курсач\код крч\Sudoko\obj\Release\Sudoko.exe
